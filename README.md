@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages By Lyy
 
-Hi,I'm quanquan.
-Nice to meet you!
+
+			     do{
+			    	printf("i love you");
+			    	year+=1;
+			    	}
+			     while(year&lt; = 10000) 
